@@ -1,0 +1,5 @@
+{
+  "name": "Siyantek Maintenance Tracker",
+  "description": "Multilingual vehicle maintenance and odometer tracker supporting French, English, and Arabic with local offline storage.",
+  "requestFramePermissions": []
+}
